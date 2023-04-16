@@ -10,4 +10,6 @@ public class Springjpah2Application {
 		SpringApplication.run(Springjpah2Application.class, args);
 	}
 
+
+
 }
