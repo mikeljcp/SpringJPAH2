@@ -1,4 +1,4 @@
-package com.example.Springjpah2;
+package com.example.Springjpah2.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
